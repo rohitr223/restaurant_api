@@ -1,0 +1,46 @@
+{
+    "title": "Api for various restaurants",
+    "description": "Your app fetched this from a remote endpoint!",
+    "restaurant": [
+        {
+            "id": "1",
+            "name": "Great Le'Cafe",
+            "rating": 5,
+            "address": "3311 Rose Avenue",
+            "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWxzfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+            "url": "GreatLeCafe"
+        },
+        {
+            "id": "2",
+            "name": "Hotel Rosyle",
+            "rating": 4,
+            "address": "1602 Logan Lane",
+            "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+            "url": "HotelRosyle"
+        },
+        {
+            "id": "3",
+            "name": "Natures Delight",
+            "rating": 4,
+            "address": "156 Clousson Road",
+            "image": "https://images.unsplash.com/photo-1590447158019-883d8d5f8bc7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+            "url": "NaturesDelight"
+        },
+        {
+            "id": "4",
+            "name": "Hotel Paradise",
+            "rating": 4,
+            "address": "3204 Chatham Way",
+            "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+            "url": "HotelParadise"
+        },
+        {
+            "id": "5",
+            "name": "Hotel Kenny",
+            "rating": 3,
+            "address": "3311 Rose Avenue",
+            "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+            "url": "HotelKenny"
+        }
+    ]
+}
